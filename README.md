@@ -8,4 +8,3 @@
 # Languages I want to learn
 
 <img src="http://167.86.120.207/img/cpp.png" height=50px width=50px>
-<img src="https://webstockreview.net/images/woman-icon-png.png" height=50px width=50px>
