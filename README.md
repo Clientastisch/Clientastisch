@@ -1,10 +1,10 @@
-# Languages I've already learned
+# Hi there 👋
 
-<img src="http://167.86.120.207/img/Java.png" height=50px width=50px>
-<img src="http://167.86.120.207/img/Kotlin.png" height=50px width=50px>
-<img src="http://167.86.120.207/img/Csharp.png" height=50px width=50px>
-
-# Languages I want to learn
-
-<img src="http://167.86.120.207/img/cpp.png" height=50px width=50px>
-<img src="http://167.86.120.207/img/GoLang.png" height=50px width=50px>
+<div align="center">
+    <img
+    src="https://github-readme-stats.vercel.app/api?username=Clientastisch&show_icons=true&theme=tokyonight&hide_border=true"
+    height=150>
+    <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clientastisch&layout=compact&hide=css&theme=tokyonight&hide_border=true"
+    height=150>
+</div>
